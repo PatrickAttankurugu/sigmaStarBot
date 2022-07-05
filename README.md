@@ -1,7 +1,7 @@
-data_science_job_market_analysis
-==============================
+sigmaStarBot
+============
 
-An exploratory analysis of the data science job market
+A state of the art chatbot based on deep learning using tensorflow and natural language processsing
 
 Project Organization
 ------------
